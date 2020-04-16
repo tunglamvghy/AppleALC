@@ -10,3 +10,6 @@ build
 .svace-dir
 cov-int
 ._*
+AppleALC.xcodeproj/._project.xcworkspace
+Resources/ALC256/._layout13.xml
+Resources/ALC256/._Platforms13.xml
